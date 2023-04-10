@@ -48,8 +48,6 @@ p {
 }
 
 
-
-
 /* First container */
 
 section .containers1 {
@@ -165,6 +163,7 @@ footer a:hover {
     section {
         display: block;
     }
+
 
     section > article {
         margin: 1em 0;
